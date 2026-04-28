@@ -1,0 +1,7 @@
+*.sln
+
+[Bb]in/
+[Oo]bj/
+
+#Elmina este archivo de configuración, ya que contiene información sensible como cadenas de conexión a bases de datos, claves de API, etc.
+appsettings.json
